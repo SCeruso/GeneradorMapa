@@ -1,0 +1,10 @@
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\bin\Debug\GeneradorMapa.exe.config
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\bin\Debug\GeneradorMapa.exe
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\bin\Debug\GeneradorMapa.pdb
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.csprojResolveAssemblyReference.cache
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.Form1.resources
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.Properties.Resources.resources
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.csproj.GenerateResource.Cache
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.exe
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.pdb
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.Form2.resources
