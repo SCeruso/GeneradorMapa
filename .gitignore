@@ -54,3 +54,6 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+*.pdb
+*.exe
+bin/Debug/GeneradorMapa.exe

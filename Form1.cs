@@ -19,9 +19,10 @@ namespace GeneradorMapa
         {
             entrada = null;
            // _C = new System.Windows.Forms.Label(); ;
-            tab_ = new Cuadricula(2, 2);
+            tab_ = new Cuadricula(3, 3);
             InitializeComponent();
-        
+            //this.Opacity = .75;
+            this.WindowState = FormWindowState.Maximized;
         }
 
         private void crearToolStripMenuItem_Click(object sender, EventArgs e)
