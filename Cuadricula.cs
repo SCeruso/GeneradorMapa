@@ -11,9 +11,10 @@ namespace GeneradorMapa
         private Celda[,] Celdas_;
         private int rows_;
         private int columns_;
-
-       public  Cuadricula(int a, int b)
+        private Form1 parent_;
+       public  Cuadricula(int a, int b, Form1 p)
         {
+            parent_ = p;
             rows_ = a;
             columns_ = b;
             Celdas_ = new Celda[a,b];
@@ -21,7 +22,7 @@ namespace GeneradorMapa
 
             for (int i = 0; i < a; i++)
                 for (int j = 0; j < b; j++)
-                    Celdas_[i,j] = new Celda(i, j, 0);      
+                    Celdas_[i,j] = new Celda(i, j, 0, parent_);      
         }
 
        public Celda get_Celda(int i, int j) { return Celdas_[i,j]; }

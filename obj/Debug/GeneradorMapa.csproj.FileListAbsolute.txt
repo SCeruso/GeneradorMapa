@@ -8,3 +8,4 @@ C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMap
 C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.exe
 C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.pdb
 C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.Form2.resources
+C:\Users\Sabato\Documents\Visual Studio 2013\Projects\GeneradorMapa\GeneradorMapa\obj\Debug\GeneradorMapa.Paleta.resources

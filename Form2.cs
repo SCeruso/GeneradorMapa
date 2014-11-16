@@ -23,8 +23,8 @@ namespace GeneradorMapa
         private void button1_Click(object sender, EventArgs e)
         {
            _parent.setent(textBox1.Text);
-            MessageBox.Show(_parent.getent());
-            _parent.verDimensiones();
+         //   MessageBox.Show(_parent.getent());
+            _parent.CrearTabla();
             
             this.Close();
         }
